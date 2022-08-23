@@ -20,9 +20,9 @@ ____4. Warning! This bot has an error of 1 to 10 blocks (minecraft problems) | �
 
 ## Distribute | Дистрибутивы
 
-- [Discord.py](https://github.com/Rapptz/discord.py) - The first module on which the bot was made (As a result, I abandoned this module) | Первый модуль на который делался бот (По итогу я этот модуль забросил)
+- [Discord.py](https://github.com/Rapptz/discord.py) - The first module on which the bot was made (As a result, I abandoned this module) | Первый модуль на котором делался бот (По итогу я этот модуль забросил)
 
-- [Nextcord](https://github.com/nextcord/nextcord) - The module on which the whole bot is written | Модуль на котором и написана весь бот
+- [Nextcord](https://github.com/nextcord/nextcord) - The module on which the whole bot is written | Модуль на котором и написан весь бот
 
 
 ## Developers | Разработчик
