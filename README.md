@@ -27,7 +27,6 @@ ____4. Warning! This bot has an error of 1 to 10 blocks (minecraft problems) | �
 
 ## Developers | Разработчик
 
-- [My Youtube Channel ](https://www.youtube.com/channel/UCuOJGWS6DD0sR1hB9GawVwg)
+- [My Youtube-Channel](https://www.youtube.com/channel/UCuOJGWS6DD0sR1hB9GawVwg)
 - [My NameMc](https://ru.namemc.com/profile/Yaso_Su.2)
-
-
+- [My GitHub](https://github.com/Yaasosu)
